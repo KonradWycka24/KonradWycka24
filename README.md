@@ -20,6 +20,13 @@ I am an IT professional focused on **System Administration** and **Infrastructur
 
 ---
 
+### 💼 Professional Experience Highlights
+
+* **Programming Instructor (Giganci Programowania):** Teaching Python & C# basics. Developed strong communication skills by translating complex technical concepts into simple logic for students.
+* **Graphic Designer & IT Intern (Fotka):** Collaborated on mobile app UI design using **Figma** and Adobe Illustrator. Additionally responsible for large-scale data curation and labeling for AI model training.
+
+---
+
 ### 📫 Contact
 * **LinkedIn:** [linkedin.com/in/konrad-wycka-768791244](https://linkedin.com/in/konrad-wycka-768791244)
 * **Email:** wycka.konrad24@gmail.com
