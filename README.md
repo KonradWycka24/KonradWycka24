@@ -19,6 +19,13 @@ I am an IT professional focused on **System Administration** and **Infrastructur
 | **Scripting & Tools** | Bash, Python, Git, Ansible |
 
 ---
+## 🚀 Featured Projects
+
+### [Proxmox NVIDIA AI Enterprise Lab](https://github.com/KonradWycka24/proxmox-nvidia-ai-enterprise-lab)
+**Enterprise infrastructure: Proxmox + NVIDIA GPU orchestration**
+- Production-ready DevOps setup
+- Docker, Kubernetes ready
+
 
 ### 💼 Professional Experience Highlights
 
